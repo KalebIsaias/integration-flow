@@ -1,6 +1,6 @@
 import time
 import random
-from utils import enviar_notificacao, processar_pagamento
+from src.utils import enviar_notificacao, processar_pagamento
 
 def solicitar_corrida(usuario, local_partida, destino):
     print(f"{usuario} solicitou uma corrida de {local_partida} para {destino}.")
