@@ -47,4 +47,3 @@ python -m unittest discover tests
 ### Tratamento de Erros
 - Corrida não inicia sem motorista disponível
 - Pagamento pode falhar e exigir nova tentativa
-```
